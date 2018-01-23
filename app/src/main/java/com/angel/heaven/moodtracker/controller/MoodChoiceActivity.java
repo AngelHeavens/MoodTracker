@@ -1,7 +1,9 @@
-package com.angel.heaven.moodtracker;
+package com.angel.heaven.moodtracker.controller;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.angel.heaven.moodtracker.R;
 
 public class MoodChoiceActivity extends AppCompatActivity {
 
